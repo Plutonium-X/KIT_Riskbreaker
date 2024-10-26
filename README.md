@@ -1,4 +1,4 @@
-# Kit de Briserisque
+# Kit de Briserisque (guerrier)
 
 -Avantages :
 - Action libre
