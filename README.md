@@ -15,6 +15,6 @@
 - Pas de bouclier
 - Pas d'armes à projectiles
 - -2 en constitution.
-- pas affecté par «armure spirituelle» et «peau d’écorce».
+- Pas affecté par «armure spirituelle» et «peau d’écorce».
 - Necessite 13 en dextérité et 12 en intelligence (pas vraiment un inconvénient, ça booste les jets de dés lors de la création)
-- pas de jumelage~
+- Pas de jumelage
