@@ -1,0 +1,34 @@
+@0 = ~Riskbreaker kit~
+@1 = ~RISKBREAKER~
+@2 = ~Riskbreaker~
+@3 = ~RISKBREAKER: Riskbreakers are quick and focused warriors. They have the ability to move and attack enemies in a way that only a blurred outline of their bodies can be seen. Riskbreakers have limited access to enhanced versions of a few mage spells as innate abilities which boost their quickness and skills of disabling enemies during combats and to break the risk involved in most difficult battles. They also have innate immunties to a number of most important spells and spell-like effects which might hinder their swiftness of action. Only Humans can be Riskbreakers.
+
+Advantages:
+- Immunity to Web, Entangle, Slow, Hold and Stun.
+- Riskbreakers are so focused during battles that they make critical hits at a roll of 17 or better (instead of the usual 20).
+- +1 bonus to Armor class at levels 10, 13, 16 ... etc.
+- Gains "Blur" and "Slow" at levels 5, 9, 13, ... etc.
+- Gains "Hold Undead (enhanced)", "Hold Monster (enhanced)" and "Improved Haste" at levels 10, 15, 20, ... etc.
+- Gains the innate ability "Risk Decrement" at levels 14, 20, 26, ... etc
+
+Risk Decrement:
+
+When surrounded by lots of enemies and when most other warriors may fall or surrender in despair, a high level riskbreaker is more than capable to break the risk involved in the toughest situations.
+
+Risk decrement has the following effects:
+- Heals the riskbreaker completely.
+- Applies a massive crushing attack to all enemies around the riskbreaker which inflicts 5D10 damage and throws them away. They should also save vs. spell with -10 penalty or become unconscious for one round.
+
+Disadvantages:
+- Cannot wear any armor.
+- Cannot wear any helmet (other than Ioun stones).
+- Cannot use gauntlets and shields.
+- Cannot use ranged weapons.
+- Cannot specialize in two handed weapons.
+- Receives a -2 Penalty to constitution.
+- Is immune to "Spirit Armor" and "Barkskin" spells.
+- Requires 13 Dexterity and 12 Intelligence.
+- Cannot dual class.~
+@4 = ~Improved Blur~
+@5 = ~Armor Class Bonus~
+@6 = ~Risk Decrement~

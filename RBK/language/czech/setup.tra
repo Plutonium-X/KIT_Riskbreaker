@@ -1,0 +1,36 @@
+@0 = ~kit Odvazlivec~
+@1 = ~ODVÁŽLIVEC~
+@2 = ~Odvážlivec~
+@3 = ~ODVÁŽLIVEC: Odvážlivci jsou extrémne rychlí a soustredení bojovníci, oproti kterým jsou normální pohyby jiných stvorení v prubehu bitvy jakoby zpomalené. Mohou se pohybovat a útocit na své neprátele zpusobem, že je z nich videt jenom rozmazaný obrys tela. Odvážlivci mají také omezený prístup k mágovým kouzlum, jakožto zvláštních schopností, zvyšujících jejich rychlost a schopnost oslabit neprítele behem boje a vyprostit se z rizika spojeného s nejtežšími bitvami. Odvážlivci mají vrozenou odolnost na množství duležitých kouzel a kouzelných efektu, které by mohly prekážet jejich rychlosti pohybu. Pouze lidé se mohou stát Odvážlivci.
+
+Výhody:
+- Imunita na Pavucinu, Zapletení, Zpomal, Drž a Omrac.
+- Odvážlivci jsou natolik soustredení behem bitev, že dávají kritický úder na hod 17 a lepší (namísto obvyklých 20).
+- +1 bonus k obrannému císlu na úrovních 10, 13, 16 ... atd.
+- Obdrží "Vylepšené Rozmazání" a "Zpomal" na úrovních 5, 9, 13, ... atd.
+- Obdrží "Zadrž nemrtvého (vylepšeno)", "Zadrž príšeru (vylepšeno)" a "Vylepšený spech" na úrovních 10, 15, 20, ... atd.
+- Obdrží zvláštní schopnost "Snížení nebezpecí" na úrovni 14, 20, 26, ... atd.
+
+Snížení nebezpecí
+
+Obklopen mnoha nepráteli a v situaci, kdy by vetšina bojovníku padla nebo podlehla zoufalství, Odvážlivec na vysoké úrovni je víc než zpusobilý k tomu, aby unikl z nebezpecí spojeného s temi nejobtížnejšími situacemi.
+
+Snížení nebezpecí má následující efekty:
+- úplne Odvážlivce vylécí.
+- zakouzlí Úder krídlem na neprátele okolo sesílatele a odhodí je pryc.
+- temto neprátelum zpusobí zranení 5k10.
+- Všichni zasažení neprátelé musí uspet v záchranném hodu proti kouzlu s penalizací -10, jinak upadnou na jedno kolo do bezvedomí.
+
+Nevýhody:
+- Nemohou nosit brnení.
+- Nemohou nosit helmy (vyjma iounských kamenu).
+- Nemohou používat chránice a štíty.
+- Nemohou požívat strelné zbrane.
+- Nemohou se specializovat v obourucních zbraních.
+- Obdrží penalizaci -2 k odolnosti.
+- Jsou imunní vuci kouzlum "Duševní zbroj" a "Kura"
+- Vyžadují odolnost 13 a inteligenci 12.
+- Nemužou mít dvojpovolání.~
+@4 = ~Vylepšené Rozmazání~
+@5 = ~Bonus k obrannému císlu~
+@6 = ~Snížení nebezpecí~

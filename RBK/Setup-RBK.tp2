@@ -1,0 +1,82 @@
+BACKUP ~RBK/backup~
+AUTHOR ~sikret_the_great@yahoo.com~
+
+ALWAYS
+	ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+		INCLUDE ~RBK/fl#add_kit_ee.tpa~
+		ACTION_DEFINE_ARRAY ch_reload BEGIN
+		~Setup.tra~
+		END
+		ACTION_DEFINE_ARRAY ch_noconvert BEGIN END
+			LAF HANDLE_CHARSETS
+			INT_VAR
+			infer_charset = 1
+			STR_VAR
+			tra_path = EVAL ~%MOD_FOLDER%/Language~
+			noconvert_array = ch_noconvert
+			reload_array = ch_reload
+		END
+	END
+END
+
+LANGUAGE ~English~
+         ~english~
+         ~RBK/language/english/setup.tra~
+LANGUAGE ~French (translated by Chevalier de Pardayan)~
+         "french"
+         ~RBK/language/english/setup.tra~
+         ~RBK/language/french/setup.tra~
+LANGUAGE ~Czech (translated by Neferit and Pan Baca)~
+         "czech"
+         ~RBK/language/english/setup.tra~
+         ~RBK/language/czech/setup.tra~
+LANGUAGE ~Spanish (translated by Clan REO, Sarevok)~
+         "spanish"
+         ~RBK/language/english/setup.tra~
+         ~RBK/language/spanish/setup.tra~
+
+BEGIN @0
+ADD_KIT ~RISKBREAKER~
+//weapons
+~RISKBREAKER 1 1 1 1 1 1 1 1~ //CLASWEAP
+~RISKBREAKER 5 5 0 1 5 5 5 0 5 5 5 5 1 5 5 5 5 5 1 1 5 5 1 0 0 0 0 0 0 0 2 3 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5~
+~RISKBREAKER 9 13 0 12 0 0~
+~RISKBREAKER 0 0 -2 0 0 0~  //Stat modifiers ABCLSMOD.2DA
+~RISKBREAKER 9 13 0 12 0 0~ //ABDCDSRQ.2DA Useless. For dualclassing into a kit.
+~RISKBREAKER 9 13 0 12 0 0~
+//alingments
+~RISKBREAKER 1 1 1 1 1 1 1 1 1~ // L_G L_N L_E N_G N_N N_E C_G C_N C_E
+// dualcass
+~RISKBREAKER 0 0 0 0 0 0~
+// 2da
+~RBK/RBK.2Da~
+//Race and class
+~K_F_H   K_F_D   K_F_G   K_F_E   K_F_HE   K_F_HL   K_F_HO~
+// Item restrictions and class
+~0x00000004 2~
+// high level abilities
+~Fi0~
+//equipment
+~* * HELM19 BAG22 RING06 RING31 CLCK02 * AMUL19 * BELT06 * * * POTN52,5 POTN4,2 POTN14,5 HAMM07 SW1H27 STAF08~
+//description
+SAY @1
+SAY @2
+SAY @3
+
+ ACTION_IF GAME_IS ~BGEE BG2EE IWDEE EET~ THEN BEGIN
+	LAF fl#add_kit_ee STR_VAR kit_name = RISKBREAKER  END
+END
+
+COPY ~RBK\spells\SPCLRB1.spl~ ~override/SPCLRB1.spl~
+COPY ~RBK\spells\SPINRB1.spl~ ~override/SPINRB1.spl~
+SAY NAME1 @4
+COPY ~RBK\spells\SPINRB2.spl~ ~override/SPINRB2.spl~
+COPY ~RBK\spells\SPINRB3.spl~ ~override/SPINRB3.spl~
+COPY ~RBK\spells\SPINRB4.spl~ ~override/SPINRB4.spl~
+COPY ~RBK\spells\SPINRB5.spl~ ~override/SPINRB5.spl~
+COPY ~RBK\spells\SPCLRB2.spl~ ~override/SPCLRB2.spl~
+SAY NAME1 @5
+COPY ~RBK\spells\SPINRB6.spl~ ~override/SPINRB6.spl~
+SAY NAME1 @6
+
+AT_INTERACTIVE_EXIT ~notepad RBK\Riskbreaker_kit_README.txt~

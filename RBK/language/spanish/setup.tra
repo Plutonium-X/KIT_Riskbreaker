@@ -1,0 +1,34 @@
+@0 = ~Kit de Intrépido~
+@1 = ~INTRÉPIDO~
+@2 = ~Intrépido~
+@3 = ~INTRÉPIDO: los intrépidos son guerreros rápidos y dedicados. Pueden moverse y atacar de tal forma que sus enemigos sólo puedan ver un perfil borroso de su figura. Los intrépidos tienen acceso a ciertas versiones mejoradas de conjuros de mago mediante aptitudes innatas, aumentando su rapidez y su aptitud para incapacitar a los enemigos durante el combate para hacer menos arriesgadas las batallas más difíciles. Además, son inmunes a la mayor parte de los conjuros y aptitudes sortílegas que afectan al movimiento. Sólo los humanos pueden convertirse en intrépidos.
+
+Ventajas:
+- Inmunidad a telaraña, enredar, ralentizar, inmovilizar y aturdir.
+- Los intrépidos se concentran tanto en el combate que causan golpes críticos con una tirada de 17 o más, en vez de 20.
+- Bonificador +1 a la armadura en los niveles 10, 13, 16, etc.
+- Gana borrosidad y ralentizar en los niveles 5, 9, 13, etc.
+- Gana inmovilizar muertos vivientes, inmovilizar monstruo y celeridad mejorada en los niveles 10, 15, 20, etc.
+- Gana la aptitud innata disminuir el riesgo en los niveles 14, 20, 26, etc.
+
+Disminuir el riesgo:
+
+En ocasiones en los que los enemigos le rodean y cualquier otro guerrero podría sucumbir o rendirse, un intrépido es capaz de evitar los riesgos más importantes.
+
+Disminuir el riesgo tiene los siguientes efectos:
+- Cura al intrépido.
+- Realiza un potente ataque que causa 5d10 puntos de daño contundente a todos los enemigos que rodean al intrépido y les lanza lejos de éste. También deben salvar contra conjuros con un penalizador de -10 o quedarán inconscientes durante un asalto.
+
+Desventajas:
+- No puede usar armaduras.
+- No puede usar yelmos (aunque sí piedras Ioun).
+- No puede usar guanteletes ni escudos.
+- No puede usar armas a distancia.
+- No puede especializarse en armas a dos manos.
+- Recibe un penalizador -2 a la constitución.
+- Es inmune a los conjuros de armadura espiritual y piel robliza.
+- Requiere destreza 13 e inteligencia 12.
+- No puede convertirse en clase dual.~
+@4 = ~Borrosidad mejorada~
+@5 = ~Bonificador a la clase de armadura~
+@6 = ~Disminuir el riesgo~
