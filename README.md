@@ -1,6 +1,6 @@
 # Kit de Briserisque
 
-- Avantages :
+-Avantages :
 - Action libre
 - +3 aux chances de coup critique
 - Au niveau 5 et tous els 4 niveaux ensuite capacité: «flou améliorée» et «lenteur» 
@@ -8,7 +8,7 @@
 - Au niveau 10 et tous les 5 niveaux ensuite capacités «immobilisation des morts-vivants (améliorée)», «immobilisation des monstres (améliorée)» et «hâte améliorée»
 - Au niveau 14 et tous les 6 niveaux ensuite capacité « Décroissance du risque » (guéri le Briserisque, repousse les ennemis et leur inflige 5D10, les rend inconscient 1 roudn (jds à -10))
 
-Les inconvénients :
+-Inconvénients :
 - Pas d'armure
 - Pas de casque (ok pierres ioniques).
 - Pas de gants
