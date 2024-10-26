@@ -6,7 +6,7 @@
 - Au niveau 5 et tous els 4 niveaux ensuite capacité: «flou améliorée» et «lenteur» 
 - Au niveau 10 et tous les 3 niveaux ensuite : +1 à la classe d’armure
 - Au niveau 10 et tous les 5 niveaux ensuite capacités «immobilisation des morts-vivants (améliorée)», «immobilisation des monstres (améliorée)» et «hâte améliorée»
-- Au niveau 14 et tous les 6 niveaux ensuite capacité « Décroissance du risque » (guéri le Briserisque, repousse les ennemis et leur inflige 5D10, les rend inconscient 1 roudn (jds à -10))
+- Au niveau 14 et tous les 6 niveaux ensuite capacité « Décroissance du risque » (guéri le Briserisque, repousse les ennemis et leur inflige 5D10, les rend inconscient 1 round (jds à -10))
 
 -Inconvénients :
 - Pas d'armure
