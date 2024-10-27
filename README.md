@@ -1,12 +1,12 @@
 # Kit de Briserisque (guerrier)
 
 -Avantages :
-- Action libre
+- Action libre (mais pas d'immunité contre la hâte)
 - +3 aux chances de coup critique
-- Au niveau 5 et tous els 4 niveaux ensuite capacité: «flou améliorée» et «lenteur» 
 - Au niveau 10 et tous les 3 niveaux ensuite : +1 à la classe d’armure
-- Au niveau 10 et tous les 5 niveaux ensuite capacités «immobilisation des morts-vivants (améliorée)», «immobilisation des monstres (améliorée)» et «hâte améliorée»
-- Au niveau 14 et tous les 6 niveaux ensuite capacité « Décroissance du risque » (guéri le Briserisque, repousse les ennemis et leur inflige 5D10, les rend inconscient 1 round (jds à -10))
+- Au niveau 5 et tous les 4 niveaux ensuite capacités «Flou améliorée» et «Lenteur» 
+- Au niveau 10 et tous les 5 niveaux ensuite capacités «Immobilisation des morts-vivants (améliorée)», «Immobilisation des monstres (améliorée)» et «Hâte améliorée»
+- Au niveau 14 et tous les 6 niveaux ensuite capacité « Décroissance du risque » (guéri 100% le Briserisque, repousse les ennemis et leur inflige 5D10, les rend inconscient 1 round s'ils ratent un jds à -10)
 
 -Inconvénients :
 - Pas d'armure
